@@ -1,0 +1,53 @@
+html {
+    min-height: 100%
+}
+
+body {
+    background-image: url("images/backgroundimage.jpeg");
+    margin-bottom: 100px;
+}
+
+#home-mainbody, #portfolio-mainbody, #contact-mainbody {
+    margin-top: 50px;
+}
+
+.nav-item:hover {
+    border-bottom: 2px solid orangered;
+}
+
+#designation {
+    color: orangered;
+}
+
+#aboutme {
+    top: 5px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: orangered;
+    color: white;
+}
+
+.card-body {
+    border-top: 4px solid orangered;
+}
+
+.card-row {
+    margin-bottom: 10px;
+}
+
+.subrow {
+    background-color: white;
+    padding: 15px;
+    border-top: 4px solid orangered;
+    text-align: center;
+}
+
+#contact {
+    color: white;
+}
+
+.footer-content {
+    margin-top: 1rem;
+    color: white;
+    font-size: 10px;
+}
